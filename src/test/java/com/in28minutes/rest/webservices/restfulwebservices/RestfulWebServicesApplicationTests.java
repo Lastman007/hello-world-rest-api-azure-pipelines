@@ -12,5 +12,4 @@ public class RestfulWebServicesApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
 }
